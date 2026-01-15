@@ -11,7 +11,10 @@
         "rotPoint",
         "Sobel",
         "sobelx",
-        "sobely"
+        "sobely",
+        "xlabel",
+        "xlim",
+        "ylabel"
     ],
     "ignoreWords": [],
     "import": []
